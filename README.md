@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
 # Face Detection with OpenCV
 This is a **Python** program which uses **OpenCV** to detect faces.
 
