@@ -6,8 +6,7 @@ This is a **Python** program which uses **OpenCV** to detect faces.
 
 ## Dependencies
 - Python - [Download](https://www.python.org/downloads/)
-- OpenCV - `pip install opencv-python`
-- numpy - `pip install numpy`
+- OpenCV - `pip install opencv-python
 
 ## How to use
 1. Clone this repository.
